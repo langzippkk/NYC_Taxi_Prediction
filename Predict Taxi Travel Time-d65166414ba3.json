@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "predict-taxi-travel-time",
+  "private_key_id": "d65166414ba33e3cf709072e9255d689adffa85a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2tam83F+reUpH\nz+p0PI/Y7rZDXsMmn5GKAu+gvDA9BlNK717q25nw8GenCYDF+LUbDbDk7Bp5fpGh\nzH9x8KLaOt/TBFJ8hJxnLAaVg8GjMmbn27JlzFDZm3E2sMWdWbvAwkPflIi8yaoI\nYsO0iiLIbBP6t6I7iI0zcea68eBMcQNKajzRcQh3JObrv7CldPs6cnLpmkQUbdFU\nIvxo59pUGWgukOwdTNB4XVfIk4lb0p6S9iwAgvKUkqndTJJkP8otFCz6u+AklvwP\nT057y1s1BxrsJg3PHZSsGw+T9ah9fcOJ/zPWSX1i2c/fXQfq6onWI1Z5I3Fvoyk0\nVAhnbRmfAgMBAAECggEAM3LzQZXSsM/+PTuMez/Eh+MsWss368vaKUFLZfkoIj8C\nPGMsWLkO37xqi6xO4TB4Gw6fZc8gY17jNmsF5jlLOmWCuoKIkbyr6BeLIRYRdFmQ\nhbClSyoeCDDP0AU2GGl4x75Ma4yBdpvY7/STxGZzhfl9JMgJ/HamwDpOLQ1ISm27\nzdlX7G6sky67d9zPFCA9N6kmt0uB4enHW3A63qVuME3ycKKa4u2Rvz3QsprRQVQ7\nyA465BF2lZ04Uy02HozRB54SY68ueI+M0DjNJqyqPu6DelkqMhofQNOi0Y3idI8P\nTOdS4EFyY3Fg/uJ4FmJQRbxzWK5Q9O6lkCdCnr4/nQKBgQDy7txHKjk9t8unmV1r\nfU8GWPlc0X7XSHz7YstN8tPo9c07pn+Gvpe9yqUWnqCf7zUK/PalO0ipIaVXo6Oj\nGqWZccr9l+7Uv21wp3wOCD1s0Il19fGVSbW0Ipg3yXkJ4xy4BIAmxd3JcscgD11e\nIOrrU7pl5DAu+6Dk3hYGgrvyKwKBgQDAiYm7Vq7VhWFhk8lKgWAN8uJVpHCOAdhO\nbLKZ16DV7SYpUasf62d8FJDIYcFrKqlWoOiFQtxvH8RyxTDCA0P0SROgGVWHTZRl\nIQq9yOsFJCYpgpukkVvmknlTI0O1r8+gk33Kr4xiGgn0iZXK+Qoo4aianZHD/Gya\nPBwingJgXQKBgHytsGnptrUBNklPAc4f4sXsNha4AjQ1JMfT/WmE/dMrC+jYW8zo\n1nH2peHFCcTrfLql92P32CPNe9FNz7bu/xyQdVDPgCi6Ek3l91owSm4lXNcooZMv\n4EySELNY+IDliaC71pWPqXMxMBc5K38av9aFAz417bC/PeUYQg+XWyQ/AoGAT+4J\nPruas0u/BKo8q3CQNto5OgKdM2byrIQVlSZeP9FGwWqFFyg7+tfyzy0+BcZdLHh6\nbzA1oPBYNqlEN5bxdA2OVy2NQzFixKT195ncb3L1YNA22xf5RfxS37/JETkegfQZ\nCbbdGbDjpyAjDnNa02PzAdUeOXWmhFUl/P0J0YUCgYEAwU3gwYfnTFdMkiH9VpsO\nFP8M46jXKpay1n6g97DimgAzEmxpids0YhYlObtTKQsz5+UPQ10gLoez4hknsdn8\nHXZ/by6TErtIYEkBgWbZmbhEFTOm++iZBmcIzfGbI/L4GvCJuh/jUNl8Usl8mG9T\n0mHWNabST/I7HWoplJjgh7k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "xl2822@predict-taxi-travel-time.iam.gserviceaccount.com",
+  "client_id": "103813939064428178838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xl2822%40predict-taxi-travel-time.iam.gserviceaccount.com"
+}
